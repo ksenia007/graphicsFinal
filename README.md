@@ -16,6 +16,7 @@ Part of my work would come from extending the previous sketches - triangles and 
 ### Sketch
 
 ### Technical Details
-//
+
 Libraries I will be using: p5js and possibly p5.play
+
 Hosting Platform will be Github Pages. 
