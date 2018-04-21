@@ -15,6 +15,13 @@ Part of my work would come from extending the previous sketches - triangles and 
 
 ### Sketch
 
+<p align="center">
+  <img src="assets/snakeV.jpg" width="700"/>
+  <img src="assets/circles.jpg" width="700"/>
+  <img src="assets/lines.jpg" width="700"/>
+</p>
+
+
 ### Technical Details
 
 Libraries I will be using: p5js and possibly p5.play
