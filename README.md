@@ -18,7 +18,7 @@ Part of my work would come from extending the previous sketches - triangles and 
 <p align="center">
   <img src="assets/snakeV.jpg" width="700"/>
   <img src="assets/circles.jpg" width="700"/>
-  <img src="assets/lines.jpg" width="700"/>
+  <img src="assets/circleLines.jpg" width="700"/>
 </p>
 
 
