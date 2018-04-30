@@ -40,23 +40,39 @@ https://ksenia007.github.io/rotatingLines/
 
 
 ### Result
-Here is a link to the first sketch:
+
+My first piece: **It all connects
 
 https://ksenia007.github.io/finalGraphicsSketch1/
 
 For me, this piece represents interactions because the randomly positioned squares eventually form squares, each one folded inside each other. And without the central squares it would take more time to understand the pattern of the outer lines. 
 
-My second piece:
+<p align="center">
+  <img src="assets/square1.png" width="300"/>
+  <img src="assets/square2.png" width="300"/>
+</p>
+
+My second piece: **Noise in the tunnel**
 
 https://ksenia007.github.io/noiseTunnel/
 
 It is based on the idea of Perlin noise rings (I was inspired by the Jacob Joaquin "Solar Flare" Processing 3.3 code for the implementation). Taken apart, they are just noisy rings. However, looking at the consequtive formation, we see a tunnel appearing. 
 
-My third piece:
+<p align="center">
+  <img src="assets/tunnel1.png" width="300"/>
+  <img src="assets/tunnel2.png" width="300"/>
+</p>
+
+My third piece: **Pulse it**
 
 https://ksenia007.github.io/waveMiddle/
 
 Once again, it is based on the Perlin noise. Every line is formed separately, and taken as a separate entity the pattern would not be obvious. But shown together as a line we see a pulsation. 
+
+<p align="center">
+  <img src="assets/line1.png" width="300"/>
+  <img src="assets/line2.png" width="300"/>
+</p>
 
 
 
