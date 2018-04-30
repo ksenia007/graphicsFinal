@@ -37,13 +37,20 @@ https://ksenia007.github.io/rotation/
 
 https://ksenia007.github.io/rotatingLines/
 
+The preview for the sketches:
+
+<p align="center">
+  <img src="assets/rotation1.png" width="200"/>
+  <img src="assets/rotation2.png" width="200"/>
+  <img src="assets/circleLines.png" width="200"/>
+</p>
 
 
 ### Result
 
-My first piece: **It all connects
+My first piece: **It all connects**
 
-https://ksenia007.github.io/finalGraphicsSketch1/
+https://ksenia007.github.io/itAllConnects/
 
 For me, this piece represents interactions because the randomly positioned squares eventually form squares, each one folded inside each other. And without the central squares it would take more time to understand the pattern of the outer lines. 
 
