@@ -1,13 +1,13 @@
-# Final Project
+# Final Project: Interactions 
 
 ## Proposal
 
 ### Conceptual Description
-I am interested in simple geometric images, where elements interact with other to create abstract images. 
+I am interested in simple geometric images, where elements interact to create abstract images. Everything in our world is connected one way or another, be it through social interactions, physics or climate. Separately, the pattern might not be obvious, but taken together it starts to emerge. 
 
 ### Interaction Description
 
-I do not plan to make interaction a central piece of my work. However, I plan to let user change some property of the sketch. 
+I do not plan to make interaction a central piece of my work. 
 
 ### Extension
 
@@ -22,15 +22,42 @@ Part of my work would come from extending the previous sketches - triangles and 
 </p>
 
 
-### Technical Details
+### Technical Details / Process
 
-Libraries I will be using: p5js and possibly p5.play
-
+Libraries I will be using: p5js 
 Hosting Platform will be Github Pages. 
 
+The creation of this final sketch was iterative - I tried different sketches, until I found the three I like - the ones that go together in terms of the style and represent the theme of Interactions.
 
-### Results
+#### Some of the sketches I created for the exam but did not use:
 
+https://ksenia007.github.io/sketch3final/
+
+https://ksenia007.github.io/rotation/
+
+https://ksenia007.github.io/rotatingLines/
+
+
+
+### Result
 Here is a link to the first sketch:
+
 https://ksenia007.github.io/finalGraphicsSketch1/
+
+For me, this piece represents interactions because the randomly positioned squares eventually form squares, each one folded inside each other. And without the central squares it would take more time to understand the pattern of the outer lines. 
+
+My second piece:
+
+https://ksenia007.github.io/noiseTunnel/
+
+It is based on the idea of Perlin noise rings (I was inspired by the Jacob Joaquin "Solar Flare" Processing 3.3 code for the implementation). Taken apart, they are just noisy rings. However, looking at the consequtive formation, we see a tunnel appearing. 
+
+My third piece:
+
+https://ksenia007.github.io/waveMiddle/
+
+Once again, it is based on the Perlin noise. Every line is formed separately, and taken as a separate entity the pattern would not be obvious. But shown together as a line we see a pulsation. 
+
+
+
 
