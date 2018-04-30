@@ -42,7 +42,7 @@ The preview for the sketches:
 <p align="center">
   <img src="assets/rotation1.png" width="200"/>
   <img src="assets/rotation2.png" width="200"/>
-  <img src="assets/circleLines.png" width="200"/>
+  <img src="assets/circleLines.jpg" width="200"/>
 </p>
 
 
