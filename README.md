@@ -25,7 +25,10 @@ Part of my work would come from extending the previous sketches - triangles and 
 ### Technical Details / Process
 
 Libraries I will be using: p5js 
+
 Hosting Platform will be Github Pages. 
+
+Notice, that while every sketch has an individual page, the source files for every sketch included in the final are in separate folders. The "rejected" sketches only have a .js file.
 
 The creation of this final sketch was iterative - I tried different sketches, until I found the three I like - the ones that go together in terms of the style and represent the theme of Interactions.
 
